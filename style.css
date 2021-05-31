@@ -1,3 +1,9 @@
-background.color {
-    
+body {
+   margin: 0px;
+}
+img{
+   border: 0px;
+}
+.text{
+   font-style: "shadow into light";
 }
